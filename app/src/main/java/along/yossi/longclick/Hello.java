@@ -7,4 +7,5 @@ package along.yossi.longclick;
 public class Hello {
     private  int t ;
     private  int eer ;
+    private  int eer1 ;
 }
