@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity{
               //longTaskHelper.execute("Yonit Levi", "Dany Kushmaru", "Roni Daniel");
             try {
                 int x = 0;
-                int y = 10 / x;
+                //int y = 10 / x;
             }catch (Exception e){
                 Log.e("TAG",e.getMessage(), e);
             }
